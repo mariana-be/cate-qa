@@ -1,2 +1,2 @@
 # CATe-QA
-Este projeto tem o intuito de formar os QAs qualificados para dentro dos times da Atlas Technologies!
+Este projeto tem o intuito de realizar um desafio de Automação do Cate-QA para Web
