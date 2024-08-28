@@ -1,0 +1,15 @@
+{
+  "name": "cate-qa",
+  "version": "1.0.0",
+  "description": "Projeto Automação do CATe",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Mariana Bezerra da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
